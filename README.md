@@ -4,11 +4,10 @@
   <img src="https://scontent.fmnl8-1.fna.fbcdn.net/v/t39.30808-6/274081927_1340729789754210_4366648664057572794_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG_uNP8HwIU1cNd5QJubkIXalZbqBMZHYNqVluoExkdg699fphs8T1R5s84hNxdNXwmWJBHFD0rnJFgvR4Mtl7Y&_nc_ohc=Mq3bUBWO7VIAX8CM2fc&_nc_ht=scontent.fmnl8-1.fna&oh=00_AT86eddE3tXIK6h7fzKfHxh8O9yL4onSKlG64HfKqDcHUA&oe=6220F483"  width="30%"></h2>
 </header>
 
-<main>
   
 # ABOUT ME
   
-<p>I am Renzi Delposo, I'm a second-year college student at [Rizal Technological University],(https://www.rtu.edu.ph/) pursuing a Bachelor of Science in Information Technology. I am a Tech enthusiast, Explorer, and eagerness to learn a Web development. I am always open to collaborating on projects and learn more. </p>
+<p>I am Renzi Delposo, I'm a second-year college student at <a href="https://www.rtu.edu.ph"/>Rizal Technological University</a> . pursuing a Bachelor of Science in Information Technology. I am a Tech enthusiast, Explorer, and eagerness to learn a Web development. I am always open to collaborating on projects and learn more. </p>
 
 <p>💬I love watching Anime Movies,Series, Exploring New places and Reading manga/manwha.</p>
 <p>👯I'm looking for a mentor to help me learn more about web development and grow as a developer.</p>
@@ -55,6 +54,5 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ---
-</main>
 
 
