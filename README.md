@@ -7,7 +7,7 @@
   
 # ABOUT ME
   
-<p>I am Renzi Delposo, I'm a second-year college student at <a href="https://www.rtu.edu.ph"/>Rizal Technological University</a> . pursuing a Bachelor of Science in Information Technology. I am a Tech enthusiast, Explorer, and eagerness to learn a Web development. I am always open to collaborating on projects and learn more. </p>
+<p>I am Renzi Delposo, I'm a second-year college student at <a href="https://www.rtu.edu.ph">Rizal Technological University</a> . pursuing a Bachelor of Science in Information Technology. I am a Tech enthusiast, Explorer, and eagerness to learn a Web development. I am always open to collaborating on projects and learn more. </p>
 
 <p>💬I love watching Anime Movies,Series, Exploring New places and Reading manga/manwha.</p>
 <p>👯I'm looking for a mentor to help me learn more about web development and grow as a developer.</p>
